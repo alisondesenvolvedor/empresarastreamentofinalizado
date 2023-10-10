@@ -1720,7 +1720,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .button_section a::after {
-    width: 60px;
+    width: 20px;
     content: ">";
     background: #ddd;
     position: absolute;
