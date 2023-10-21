@@ -1625,7 +1625,7 @@ input[type="radio"] .styled:checked+label::after {
 
 .top_section {
   height: 100vh;
-  background: url('../novas/fundoi\ banner.png');
+  background: url('../novas/novo\ fundo.png');
   background-size: cover;
   background-attachment: fixed;
 }
